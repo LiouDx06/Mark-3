@@ -1,0 +1,31 @@
+body{
+	background-image: url(b5.jpg) ;
+ 	background-attachment: fixed;
+ 	background-repeat: no-repeat;
+ 	background-size: 100% 100%;
+}
+
+#boton {
+	padding: 15px 20px;
+}
+
+#boton li {
+	display: inline-block;
+	margin-left: auto ;
+	margin-right: auto ;
+}
+
+#boton li a {
+	font-family: Monaco;
+	font-size: 20px;
+	text-decoration: blink;
+	float: left;
+	padding: 20px;
+	background-color: lightpink;
+	color:darkred;
+}
+
+#boton li a:hover {
+	background-color: #piknk;
+	margin-top: -2;
+	padding-bottom: 12px;

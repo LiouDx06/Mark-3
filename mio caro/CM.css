@@ -1,0 +1,40 @@
+body{
+	background-image: url(b2.jpg) ;
+ 	background-attachment: fixed;
+}
+section{
+	width: 50%;
+	float: center;
+	background: black ;
+}
+p1{
+	color: slateblue;
+	text-align: justify;
+	line-height: 150%;
+}
+
+
+
+#boton {
+	padding: 15px 20px;
+}
+
+#boton li {
+	display: inline-block;
+}
+
+#boton li a {
+	font-family: Monaco;
+	font-size: 20px;
+	text-decoration: blink;
+	float: left;
+	padding: 20px;
+	background-color: lightpink;
+	color:darkred;
+}
+
+#boton li a:hover {
+	background-color: #piknk;
+	margin-top: -2;
+	padding-bottom: 12px;
+}
